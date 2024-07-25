@@ -29,15 +29,27 @@ I’m proficient in a range of tools and technologies:
 
 
 - **Languages:**
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)
-  ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=ffffff)
-  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=ffffff)
   ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=ffffff)
   ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=ffffff)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff)
+  ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=ffffff)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
+  ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sql&logoColor=ffffff)
+  ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift&logoColor=ffffff)
+  ![Go](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=ffffff)
 
-- **Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=ffffff) 
+- **Developer Tools:**
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=ffffff)
+  ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=ffffff)
+  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=ffffff)
+  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=ffffff)
+  ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=ffffff)
+  ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=ffffff)
+
 - **Frameworks:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000000) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=ffffff)
 
 ## 📈 Contributions & Achievements
