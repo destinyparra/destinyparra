@@ -56,8 +56,8 @@ I’m proficient in a range of tools and technologies:
 I’ve contributed to a variety of projects and have some notable achievements:
 
 - 🏆 **[Personal Contributions](URL):** Highlights from my personal projects and open-source contributions.
-- 🏫 **[School Contributions](URL):** Academic projects and research contributions.
-- 💼 **[Workplace Contributions](URL):** Significant work and achievements from my professional experience.
+- 🏫 **[School Contributions]([URL](https://github.com/DestNp)):** Academic projects and research contributions.
+- 💼 **[Workplace Contributions](https://github.com/DestinyNP):** Significant work and achievements from my professional experience.
 
 ## 📝 Latest Blog Posts
 
