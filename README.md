@@ -27,9 +27,18 @@ Here are some of my standout projects:
 
 I’m proficient in a range of tools and technologies:
 
-- **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)
-- **Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=ffffff) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=ffffff)
-- **Frameworks:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000000) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=ffffff) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=ffffff)
+
+- **Languages:**
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)
+  ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=ffffff)
+  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=ffffff)
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=ffffff)
+  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=ffffff)
+
+- **Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=ffffff) 
+- **Frameworks:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000000) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=ffffff)
 
 ## 📈 Contributions & Achievements
 
