@@ -21,7 +21,7 @@ Here are some of my standout projects:
 *Description:* Developed methods to crawl large pages of text and efficiently index over 55,000 documents, improving data analysis efficiency and readability. Created a user-friendly interface using Python, HTML, CSS, and Flask.
 
 ### 💡 Clubs App AI Integration
-*Description:* Developed and integrated progressive AI features into the Clubs app using Python, LangChain, OpenAI API, and Anthropic API to personalize club creation and help users plan their goals.
+*Description:* Developed and integrated progressive AI features into the Clubs app using Python, Golang, dart, LangChain, OpenAI API, and Anthropic API to personalize club creation and help users plan their goals.
 
 ## 🛠️ Skills & Technologies
 
