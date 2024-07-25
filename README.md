@@ -59,13 +59,6 @@ I’ve contributed to a variety of projects and have some notable achievements:
 - 🏫 **[School Contributions]([URL](https://github.com/DestNp)):** Academic projects and research contributions.
 - 💼 **[Workplace Contributions](https://github.com/DestinyNP):** Significant work and achievements from my professional experience.
 
-## 📝 Latest Blog Posts
-
-Here are some of my latest blog posts or articles:
-[Under Construction]
-- ✍️ **[Post Title](URL):** A brief summary or teaser for your latest blog post.
-- ✍️ **[Another Post Title](URL):** A summary of another recent post or article.
-
 ## 🎨 Fun Facts
 
 - 📚 **Avid Reader:** I’m passionate about reading and love diving into books on technology, personal development, and science fiction. Currently, I’m engrossed in "The Innovators" by Walter Isaacson. If you have any book recommendations, I’m all ears!
