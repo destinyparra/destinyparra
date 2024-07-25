@@ -6,27 +6,26 @@ Welcome to my GitHub profile! 🌟 I’m thrilled to have you here. Here’s a l
 
 - 🌍 **Location:** Irvine, CA
 - 👨‍💻 **Currently:** Working on [Clubs](https://clubs.app/)
-- 🌱 **Learning:** [New Technologies or Skills]
-- 📫 **Contact:** [Email](mailto:Destinyparra@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/destiny-nunez-parra/) 
-- 😄 **Pronouns:** [she/her/hers]
+- 🌱 **Learning:** New Technologies or Skills
+- 📫 **Contact:** [Email](mailto:Destinyparra@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/destiny-nunez-parra/)
+- 😄 **Pronouns:** she/her/hers
 
 ## 🌟 Featured Projects
 
 Here are some of my standout projects:
 
-### 🌐 [Project Name](URL)
-*Description:* A brief overview of what this project is about and what makes it special.
+### 🌐 IOS Health App
+*Description:* Led the integration of HealthKit data into the application, enabling retrieval and display of user health data for accurate daily health monitoring. Designed a targeted workout recommendation system and implemented a lifestyle score based on Hydration, Diet, and Exercise metrics.
 
-### 🛠️ [Another Project Name](URL)
-*Description:* A brief overview of another noteworthy project you’ve worked on.
+### 🛠️ Web Crawler and Search Engine
+*Description:* Developed methods to crawl large pages of text and efficiently index over 55,000 documents, improving data analysis efficiency and readability. Created a user-friendly interface using Python, HTML, CSS, and Flask.
 
-### 💡 [Cool Contribution](URL)
-*Description:* A significant contribution or work that you’re particularly proud of.
+### 💡 Clubs App AI Integration
+*Description:* Developed and integrated progressive AI features into the Clubs app using Python, LangChain, OpenAI API, and Anthropic API to personalize club creation and help users plan their goals.
 
 ## 🛠️ Skills & Technologies
 
 I’m proficient in a range of tools and technologies:
-
 
 - **Languages:**
   ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=ffffff)
@@ -62,22 +61,20 @@ I’ve contributed to a variety of projects and have some notable achievements:
 
 ## 📝 Latest Blog Posts
 
-Here are some of my latest blog posts or articles :
-[Under Contruction]
+Here are some of my latest blog posts or articles:
+[Under Construction]
 - ✍️ **[Post Title](URL):** A brief summary or teaser for your latest blog post.
 - ✍️ **[Another Post Title](URL):** A summary of another recent post or article.
 
-
 ## 🎨 Fun Facts
 
-- 📚 **Avid Reader:** I’m passionate about reading and love diving into books on technology, personal development, and science fiction. Currently, I’m engrossed in [Book Title] by [Author]. If you have any book recommendations, I’m all ears!
+- 📚 **Avid Reader:** I’m passionate about reading and love diving into books on technology, personal development, and science fiction. Currently, I’m engrossed in "The Innovators" by Walter Isaacson. If you have any book recommendations, I’m all ears!
 
 - 🏃 **Fitness Enthusiast:** Staying active is crucial for me! I regularly go for runs and hit the gym to stay fit and focused. Whether it's a morning jog or a challenging workout, I find that exercising helps me stay energized and creative.
 
 - 🌐 **Tech Conference Attendee:** I enjoy attending tech conferences and meetups to stay on the cutting edge of industry trends and network with like-minded professionals. Recently, I participated in Consensus 2024 and gained valuable insights into AI and Blockchain.
 
-- 🚀 **Learning New Technologies:** I’m always eager to explore and learn about emerging technologies. From experimenting with the latest frameworks to diving into new programming languages, I’m constantly expanding my skill set. Currently, I’m exploring OpenAi, and it’s been an exciting journey!
-
+- 🚀 **Learning New Technologies:** I’m always eager to explore and learn about emerging technologies. From experimenting with the latest frameworks to diving into new programming languages, I’m constantly expanding my skill set. Currently, I’m exploring OpenAI, and it’s been an exciting journey!
 
 ## 📫 Let's Connect!
 
