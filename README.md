@@ -62,11 +62,9 @@ I’ve contributed to a variety of projects and have some notable achievements:
 - 🏫 **[School Contributions](https://github.com/DestNp):** Academic projects and research contributions.
 - 💼 **[Workplace Contributions](https://github.com/DestinyNP):** Significant work and achievements from my professional experience.
 
-## 🎨 Fun Facts
+## 🎨 About Me
 
-- 📚 **Avid Reader:** I’m passionate about reading and love diving into books on technology, personal development, and science fiction. Currently, I’m engrossed in "The Innovators" by Walter Isaacson. If you have any book recommendations, I’m all ears!
-
-- 🏃 **Fitness Enthusiast:** Staying active is crucial for me! I regularly go for runs and hit the gym to stay fit and focused. Whether it's a morning jog or a challenging workout, I find that exercising helps me stay energized and creative.
+- 🏃 **Fitness Enthusiast:** I regularly hit the gym to stay fit and focused. I find that exercising helps me stay energized and creative.
 
 - 🌐 **Tech Conference Attendee:** I enjoy attending tech conferences and meetups to stay on the cutting edge of industry trends and network with like-minded professionals. Recently, I participated in Consensus 2024 and gained valuable insights into AI and Blockchain.
 
