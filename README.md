@@ -24,9 +24,6 @@ Here are some of my standout projects:
 ### 💡 Clubs App AI Integration
 *Description:* Developed and integrated progressive AI features into the Clubs app using Python, Golang, dart, LangChain, OpenAI API, and Anthropic API to personalize club creation and help users plan their goals.
 
-### 🌐 Faculty Website Redesign 
-*Description:* In progress [Website](https://destinyparra.github.io/Thornton-Website-Remake/)
-## 🛠️ Skills & Technologies
 
 I’m proficient in a range of tools and technologies:
 
