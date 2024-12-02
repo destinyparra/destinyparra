@@ -62,13 +62,6 @@ I’ve contributed to a variety of projects and have some notable achievements:
 - 🏫 **[School Contributions](https://github.com/DestNp):** Academic projects and research contributions.
 - 💼 **[Workplace Contributions](https://github.com/DestinyNP):** Significant work and achievements from my professional experience.
 
-## 🎨 About Me
-
-- 🏃 **Fitness Enthusiast:** I regularly hit the gym to stay fit and focused. I find that exercising helps me stay energized and creative.
-
-- 🌐 **Tech Conference Attendee:** I enjoy attending tech conferences and meetups to stay on the cutting edge of industry trends and network with like-minded professionals. Recently, I participated in Consensus 2024 and gained valuable insights into AI and Blockchain.
-
-- 🚀 **Learning New Technologies:** I’m always eager to explore and learn about emerging technologies. From experimenting with the latest frameworks to diving into new programming languages, I’m constantly expanding my skill set. Currently, I’m exploring OpenAI, and it’s been an exciting journey!
 
 ## 📫 Let's Connect!
 
