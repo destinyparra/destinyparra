@@ -6,7 +6,6 @@ Welcome to my GitHub profile! 🌟 I’m thrilled to have you here. Here’s a l
 
 - 🌍 **Location:** Irvine, CA
 - 👨‍💻 **Currently:** Working on [Clubs](https://clubs.app/)
-- 🌱 **Learning:** New Technologies or Skills
 - 📫 **Contact:** [Email](mailto:Destinyparra@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/destiny-nunez-parra/)
 - 😄 **Pronouns:** she/her/hers
 - 🚧 **Portfolio** Currently under construction! [Destiny Parra](https://destinyparra.github.io/Portfolio/)
