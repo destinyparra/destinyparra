@@ -15,6 +15,7 @@ Welcome to my GitHub profile! 🌟 I’m thrilled to have you here. Here’s a l
 Here are some of my standout projects:
 
 ### 📱 SignEase - IOT ASL glove with real-time translations
+*Description:* This project involves creating a smart glove that translates sign language gestures into audio output. The glove uses 5 flex sensors, to detect hand gestures and interpret the meaning. The system uses AWS for backend processing and uses an iPhone as the client interface for interaction.
 [Link to Github] (https://github.com/destinyparra/SignEase)
 
 ### 🌐 IOS Health App
