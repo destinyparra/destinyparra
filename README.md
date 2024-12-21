@@ -14,6 +14,9 @@ Welcome to my GitHub profile! 🌟 I’m thrilled to have you here. Here’s a l
 
 Here are some of my standout projects:
 
+### 📱 SignEase - IOT ASL glove with real-time translations
+[Link to Github] (https://github.com/destinyparra/SignEase)
+
 ### 🌐 IOS Health App
 *Description:* Led the integration of HealthKit data into the application, enabling retrieval and display of user health data for accurate daily health monitoring. Designed a targeted workout recommendation system and implemented a lifestyle score based on Hydration, Diet, and Exercise metrics.
 
