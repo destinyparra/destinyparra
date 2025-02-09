@@ -55,13 +55,6 @@ I’m proficient in a range of tools and technologies:
 
 - **Frameworks:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000000) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=ffffff)
 
-## 📈 Contributions & Achievements
-
-I’ve contributed to a variety of projects and have some notable achievements:
-
-- 🏆 **[Personal Contributions](https://github.com/destinyparra/destinyparra):** Highlights from my personal projects and open-source contributions.
-- 🏫 **[School Contributions](https://github.com/DestNp):** Academic projects and research contributions.
-
 ## 📫 Let's Connect!
 
 Feel free to reach out and connect with me:
