@@ -30,6 +30,7 @@ Here are some of my standout projects:
 I’m proficient in a range of tools and technologies:
 
 - **Languages:**
+  ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=ffffff)
   ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=ffffff)
   ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=ffffff)
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
@@ -41,6 +42,7 @@ I’m proficient in a range of tools and technologies:
   ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sql&logoColor=ffffff)
   ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift&logoColor=ffffff)
   ![Go](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=ffffff)
+  
 
 - **Developer Tools:**
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff)
