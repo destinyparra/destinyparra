@@ -13,6 +13,10 @@ Welcome to my GitHub profile! 🌟 I’m thrilled to have you here. Here’s a l
 
 Here are some of my standout projects:
 
+### 🌐 Zot Spot — UCI Campus Period Product Locator  
+*Description:* Built at VenusHacks, Zot Spot helps students locate free period products across the UC Irvine campus using an interactive map. It displays real-time availability, user-submitted stock updates, and estimated walking time to nearby restrooms. Designed with accessibility and female empowerment in mind, this project makes period care more visible and accessible to everyone.  
+[Live Demo](https://venushacks-1.onrender.com)
+
 ### 💬 Yapify — AI-Powered Voice Journal
 *Description:* Struggle to keep a consistent journal? Yapify makes journaling effortless by transforming your spoken thoughts into clear, structured entries. Just record a voice memo about your day — Yapify uses AI to transcribe and summarize your audio into a cohesive journal entry. Whether your thoughts jump around or loop back before reaching the point, Yapify helps you capture it all in a way that actually makes sense. Never lose track of your words again.
 
@@ -20,7 +24,7 @@ Here are some of my standout projects:
 *Description:* This project involves creating a smart glove that translates sign language gestures into audio output. The glove uses 5 flex sensors, to detect hand gestures and interpret the meaning. The system uses AWS for backend processing and uses an iPhone as the client interface for interaction.
 [Link to Github] (https://github.com/destinyparra/SignEase)
 
-### 🌐 IOS Health App
+### ❤️ IOS Health App
 *Description:* Led the integration of HealthKit data into the application, enabling retrieval and display of user health data for accurate daily health monitoring. Designed a targeted workout recommendation system and implemented a lifestyle score based on Hydration, Diet, and Exercise metrics.
 
 ### 🛠️ Web Crawler and Search Engine
