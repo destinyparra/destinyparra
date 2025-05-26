@@ -21,17 +21,17 @@ Here are some of my standout projects:
 *Description:* Struggle to keep a consistent journal? Yapify makes journaling effortless by transforming your spoken thoughts into clear, structured entries. Just record a voice memo about your day — Yapify uses AI to transcribe and summarize your audio into a cohesive journal entry. Whether your thoughts jump around or loop back before reaching the point, Yapify helps you capture it all in a way that actually makes sense. Never lose track of your words again.
 
 ### 📱 SignEase - IOT ASL glove with real-time translations
-*Description:* This project involves creating a smart glove that translates sign language gestures into audio output. The glove uses 5 flex sensors, to detect hand gestures and interpret the meaning. The system uses AWS for backend processing and uses an iPhone as the client interface for interaction.
+*Description:* This project involves creating a smart glove that translates sign language gestures into audio output. The glove uses 5 flex sensors to detect hand gestures and interpret the meaning. The system uses AWS for backend processing and uses an iPhone as the client interface for interaction.
 [Link to Repo](https://github.com/destinyparra/SignEase)
 
 ### ❤️ IOS Health App
-*Description:* Led the integration of HealthKit data into the application, enabling retrieval and display of user health data for accurate daily health monitoring. Designed a targeted workout recommendation system and implemented a lifestyle score based on Hydration, Diet, and Exercise metrics.
+*Description:* Led the integration of HealthKit data into the application, enabling the retrieval and display of user health data for accurate daily health monitoring. Designed a targeted workout recommendation system and implemented a lifestyle score based on Hydration, Diet, and Exercise metrics.
 
 ### 🛠️ Web Crawler and Search Engine
 *Description:* Developed methods to crawl large pages of text and efficiently index over 55,000 documents, improving data analysis efficiency and readability. Created a user-friendly interface using Python, HTML, CSS, and Flask.
 
 ### 💡 Clubs App AI Integration
-*Description:* Developed and integrated progressive AI features into the Clubs app using Python, Golang, dart, LangChain, OpenAI API, and Anthropic API to personalize club creation and help users plan their goals.
+*Description:* Developed and integrated progressive AI features into the Clubs app using Python, Golang, Dart, LangChain, OpenAI API, and Anthropic API to personalize club creation and help users plan their goals.
 
 
 I’m proficient in a range of tools and technologies:
