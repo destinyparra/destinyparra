@@ -22,7 +22,7 @@ Here are some of my standout projects:
 
 ### 📱 SignEase - IOT ASL glove with real-time translations
 *Description:* This project involves creating a smart glove that translates sign language gestures into audio output. The glove uses 5 flex sensors, to detect hand gestures and interpret the meaning. The system uses AWS for backend processing and uses an iPhone as the client interface for interaction.
-[Link to Github] (https://github.com/destinyparra/SignEase)
+[Link to Repo](https://github.com/destinyparra/SignEase)
 
 ### ❤️ IOS Health App
 *Description:* Led the integration of HealthKit data into the application, enabling retrieval and display of user health data for accurate daily health monitoring. Designed a targeted workout recommendation system and implemented a lifestyle score based on Hydration, Diet, and Exercise metrics.
