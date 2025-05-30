@@ -19,6 +19,7 @@ Here are some of my standout projects:
 
 ### 💬 Yapify — AI-Powered Voice Journal
 *Description:* Struggle to keep a consistent journal? Yapify makes journaling effortless by transforming your spoken thoughts into clear, structured entries. Just record a voice memo about your day — Yapify uses AI to transcribe and summarize your audio into a cohesive journal entry. Whether your thoughts jump around or loop back before reaching the point, Yapify helps you capture them all in a way that actually makes sense. Never lose track of your words again.
+
 [Live Demo](https://yapify-seven.vercel.app/) - Not up to date with the newest features
 
 ### 📱 SignEase - IOT ASL glove with real-time translations
