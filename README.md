@@ -1,7 +1,5 @@
 # 👋 Hello, I'm Destiny Parra!
 
-Welcome to my GitHub profile! 🌟 I’m thrilled to have you here. Here’s a little bit about me and my work.
-
 ## 🚀 About Me
 
 - 🌍 **Location:** Irvine, CA
