@@ -18,8 +18,8 @@ Here are some of my standout projects:
 [Live Demo](https://venushacks-1.onrender.com) | [Devpost](https://devpost.com/software/zot-spot)
 
 ### 💬 Yapify — AI-Powered Voice Journal
-*Description:* Struggle to keep a consistent journal? Yapify makes journaling effortless by transforming your spoken thoughts into clear, structured entries. Just record a voice memo about your day — Yapify uses AI to transcribe and summarize your audio into a cohesive journal entry. Whether your thoughts jump around or loop back before reaching the point, Yapify helps you capture it all in a way that actually makes sense. Never lose track of your words again.
-[Live Demo](https://yapify-seven.vercel.app/) - Not up to date with newest features
+*Description:* Struggle to keep a consistent journal? Yapify makes journaling effortless by transforming your spoken thoughts into clear, structured entries. Just record a voice memo about your day — Yapify uses AI to transcribe and summarize your audio into a cohesive journal entry. Whether your thoughts jump around or loop back before reaching the point, Yapify helps you capture them all in a way that actually makes sense. Never lose track of your words again.
+[Live Demo](https://yapify-seven.vercel.app/) - Not up to date with the newest features
 
 ### 📱 SignEase - IOT ASL glove with real-time translations
 *Description:* This project involves creating a smart glove that translates sign language gestures into audio output. The glove uses 5 flex sensors to detect hand gestures and interpret the meaning. The system uses AWS for backend processing and uses an iPhone as the client interface for interaction.
