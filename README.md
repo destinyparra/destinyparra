@@ -37,7 +37,7 @@ Here are some of my standout projects:
 *Description:* Developed and integrated progressive AI features into the Clubs app using Python, Golang, Dart, LangChain, OpenAI API, and Anthropic API to personalize club creation and help users plan their goals.
 
 
-I’m proficient in a range of tools and technologies:
+I’m have experience in a range of tools and technologies:
 
 - **Languages:**
   ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=ffffff)
@@ -63,13 +63,12 @@ I’m proficient in a range of tools and technologies:
   ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=ffffff)
   ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=ffffff)
 
-- **Frameworks:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000000) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=ffffff)
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 Feel free to reach out and connect with me:
 
 - [LinkedIn](https://www.linkedin.com/in/destiny-nunez-parra/)
 - [Email](mailto:Destinyparra@hotmail.com)
 
-Thank you for visiting my GitHub profile! 🚀
+Thank you for visiting my GitHub profile! :)
