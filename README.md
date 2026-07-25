@@ -15,13 +15,9 @@ Here are some of my standout projects:
 *Description:* Originally built for a 48-hour hackathon, Garden of You is a mental health journaling app that encourages users to reflect on their entries, gain valuable insights from AI, and watch their personal growth literally. Each time a user submits an entry, Garden of You extracts themes from the entry. Up to three themes will be applied to the user's entry and water the plants assigned to those themes. Since I cannot make changes to the original Repo, I will link it, but will continue to make updates in a new repo, as I really enjoyed this project. I will link the new repo later once I feel comfortable with the progress and am able to deploy on Vercel.
 [Link to Original Repo](https://github.com/destinyparra/Palo-Alto-Hackathon) | [New Repo Link TBD]
 
-
 ###  Zot Spot — UCI Campus Period Product Locator  
 *Description:* Built at VenusHacks, Zot Spot helps students locate free period products across the UC Irvine campus using an interactive map. It displays real-time availability, user-submitted stock updates, and estimated walking time to nearby restrooms. Designed with accessibility and female empowerment in mind, this project makes period care more visible and accessible to everyone.  
 [Live Demo](https://venushacks-1.onrender.com) | [Devpost](https://devpost.com/software/zot-spot)
-
-###  Yapify — AI-Powered Voice Journal
-*Description:* Struggle to keep a consistent journal? Yapify makes journaling effortless by transforming your spoken thoughts into clear, structured entries. Just record a voice memo about your day — Yapify uses AI to transcribe and summarize your audio into a cohesive journal entry. Whether your thoughts jump around or loop back before reaching the point, Yapify helps you capture them all in a way that actually makes sense. Never lose track of your words again.
 
 ###  SignEase - IOT ASL glove with real-time translations
 *Description:* This project involves creating a smart glove that translates sign language gestures into audio output. The glove uses 5 flex sensors to detect hand gestures and interpret the meaning. The system uses AWS for backend processing and uses an iPhone as the client interface for interaction.
