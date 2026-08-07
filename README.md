@@ -11,7 +11,7 @@
 
 Here are some of my standout projects:
 
-## CNC Machine Build & Software
+### CNC Machine Build & Software
 *Description:* My passion is working with Embedded projects, so I thought to myself, "yanno what would be cool, a cnc machine." So I built it :).
 [Link to Page](https://portfolio-xi-six-59.vercel.app/cncMachine.html)
 
