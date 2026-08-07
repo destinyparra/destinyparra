@@ -11,6 +11,9 @@
 
 Here are some of my standout projects:
 
+## CNC Machine Build & Software
+[Link to Page](https://portfolio-xi-six-59.vercel.app/cncMachine.html)
+
 ###  Garden of You — Mental Health Journaling 
 *Description:* Originally built for a 48-hour hackathon, Garden of You is a mental health journaling app that encourages users to reflect on their entries, gain valuable insights from AI, and watch their personal growth literally. Each time a user submits an entry, Garden of You extracts themes from the entry. Up to three themes will be applied to the user's entry and water the plants assigned to those themes. Since I cannot make changes to the original Repo, I will link it, but will continue to make updates in a new repo, as I really enjoyed this project. I will link the new repo later once I feel comfortable with the progress and am able to deploy on Vercel.
 [Link to Original Repo](https://github.com/destinyparra/Palo-Alto-Hackathon) | [New Repo Link TBD]
