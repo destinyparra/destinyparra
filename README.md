@@ -12,7 +12,8 @@
 Here are some of my standout projects:
 
 ### XTEINK EReader Dashboard 
-*Description:* Crosspoint is an open-source firmware for the Xteink Ereader; however, it lacks some functionality I would like to see. I decided instead of hoping for a future update to deliver these features, I could build it myself. This is a current work in progress.
+*Description:* Developing a custom **Reading Dashboard for the Xteink X4 e-reader** by modifying the open-source CrossPoint firmware. The feature adds an on-device reading statistics interface that displays information such as reading progress, pages read, pages remaining, word count, and book ratings.
+
 
 ### CNC Machine Build & Software
 *Description:* My passion is working with Embedded projects, so I thought to myself, "yanno what would be cool, a cnc machine." So I built it :).
